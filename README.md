@@ -20,6 +20,8 @@ First, you need to enable the Drive API for your app. You can do this in your ap
       3. Click **Create Client ID**.
 6. In the **API Access** page, locate the section **Client ID for installed applications**, and click "Download JSON" and save the file as `client_secrets.json` in app directory.
 
+Alternatively to step 6 you can also copy the file `client_secrets.json.sample` and provide your credentials manually.
+
 ### Install the dependencies
 
 Use Bundler to install the required gems:
